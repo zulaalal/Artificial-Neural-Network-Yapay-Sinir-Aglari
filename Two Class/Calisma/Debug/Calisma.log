@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+f:\notes\bilgisayar müh\yapay sinir ağları\odevler\two class\calisma\myform.h(492): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+f:\notes\bilgisayar müh\yapay sinir ağları\odevler\two class\calisma\myform.h(501): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+f:\notes\bilgisayar müh\yapay sinir ağları\odevler\two class\calisma\myform.h(509): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+f:\notes\bilgisayar müh\yapay sinir ağları\odevler\two class\calisma\myform.h(536): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+f:\notes\bilgisayar müh\yapay sinir ağları\odevler\two class\calisma\myform.h(537): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  MyForm.obj : MSIL modülü ile karşılaşıldı; MSIL için artımlı bağlama devre dışı bırakıldı; tam bağlantı gerçekleştiriliyor
+  Calisma.vcxproj -> F:\Notes\Bilgisayar Müh\Yapay Sinir Ağları\Odevler\Two Class\Debug\Calisma.exe
